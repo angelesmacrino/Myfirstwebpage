@@ -1,0 +1,48 @@
+html{
+    height: 100%;
+}
+
+
+#NavBar{
+    background-color: cadetblue!important;
+}
+
+.spacing{
+    height: 10px;
+    width: 100%;
+    background-color:antiquewhite;
+    
+}
+
+.spacing2{
+    height: 30px;
+    width: 100%;
+    background-color:antiquewhite;
+    
+}
+
+html, #splash, main, #AnimalList, .card, #form{
+    background-color: antiquewhite;
+}
+
+
+#splash h1{
+    font-family: 'Original Surfer', sans-serif, cursive;
+}
+
+#LandingMain img{
+    border: 5px solid rgb(47, 42, 61);
+    border-radius: 10%;
+}
+
+
+
+
+footer, #footer{
+    background-color: cadetblue;
+}
+
+
+
+
+
